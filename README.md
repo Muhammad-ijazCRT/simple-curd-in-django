@@ -1,0 +1,1 @@
+# simple-curd-in-django
